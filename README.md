@@ -9,3 +9,4 @@
 * Управление стилем шрифта с помощью элемента управления CheckBox - [ДЗ 006](https://github.com/GhostBasenji/homeworks/tree/master/CheckBox).
 * Побитовый оператор "исключающее ИЛИ" - [ДЗ 007](https://github.com/GhostBasenji/homeworks/tree/master/CheckBox2).
 * Вкладки TabControl и переключатели RadioButton - [ДЗ 008](https://github.com/GhostBasenji/homeworks/tree/master/Tabs).
+* Калькулятор на основе комбинированного списка ComboBox - [ДЗ 009](https://github.com/GhostBasenji/homeworks/tree/master/ComboBoxCalc).

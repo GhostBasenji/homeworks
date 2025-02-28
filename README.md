@@ -10,3 +10,4 @@
 * Побитовый оператор "исключающее ИЛИ". - [CheckBox2](https://github.com/GhostBasenji/homeworks/tree/master/CheckBox2).
 * Вкладки TabControl и переключатели RadioButton. - [Tabs](https://github.com/GhostBasenji/homeworks/tree/master/Tabs).
 * Калькулятор на основе комбинированного списка ComboBox. - [ComboBoxCalc](https://github.com/GhostBasenji/homeworks/tree/master/ComboBoxCalc).
+* Вывод греческих букв, символов математических операторов. Кодовая таблица Unicode. = [Unico](https://github.com/GhostBasenji/homeworks/tree/master/Unico).

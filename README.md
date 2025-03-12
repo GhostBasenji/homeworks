@@ -1,6 +1,6 @@
 ## Репозиторий, в котором хранятся домашние задания (ДЗ), написанные на C#
 
-### Глава 1. Простейшие программы с экранной формой и элементами управления
+### Часть 1. Простейшие программы с экранной формой и элементами управления
 * Форма, кнопка, метка и диалоговое окно. - [First](https://github.com/GhostBasenji/homeworks/tree/master/First).
 * Событие MouseHover. - [MouseHover](https://github.com/GhostBasenji/homeworks/tree/master/MouseHover).
 * Выбор нужной даты. - [DatePicker](https://github.com/GhostBasenji/homeworks/tree/master/DatePicker).
@@ -10,4 +10,7 @@
 * Побитовый оператор "исключающее ИЛИ". - [CheckBox2](https://github.com/GhostBasenji/homeworks/tree/master/CheckBox2).
 * Вкладки TabControl и переключатели RadioButton. - [Tabs](https://github.com/GhostBasenji/homeworks/tree/master/Tabs).
 * Калькулятор на основе комбинированного списка ComboBox. - [ComboBoxCalc](https://github.com/GhostBasenji/homeworks/tree/master/ComboBoxCalc).
-* Вывод греческих букв, символов математических операторов. Кодовая таблица Unicode. = [Unico](https://github.com/GhostBasenji/homeworks/tree/master/Unico).
+* Вывод греческих букв, символов математических операторов. Кодовая таблица Unicode. - [Unico](https://github.com/GhostBasenji/homeworks/tree/master/Unico).
+
+### Часть 2. Программирование консольных приложений
+* Ввод и вывод в консольном приложении. - [Sum](https://github.com/GhostBasenji/homeworks/tree/master/Sum).

@@ -14,3 +14,4 @@
 
 ### Часть 2. Программирование консольных приложений
 * Ввод и вывод в консольном приложении. - [Sum](https://github.com/GhostBasenji/homeworks/tree/master/Sum).
+* Вывод на консоль таблицы чисел с помощью форматирования строк. - [TableRoots](https://github.com/GhostBasenji/homeworks/tree/master/TableRoots).

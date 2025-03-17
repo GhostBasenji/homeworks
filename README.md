@@ -16,3 +16,4 @@
 * Ввод и вывод в консольном приложении. - [Sum](https://github.com/GhostBasenji/homeworks/tree/master/Sum).
 * Вывод на консоль таблицы чисел с помощью форматирования строк. - [TableRoots](https://github.com/GhostBasenji/homeworks/tree/master/TableRoots).
 * Программирование интервалов с помощью оператора else if. - [Intervals](https://github.com/GhostBasenji/homeworks/tree/master/Intervals).
+* Учимся работать со словарем Dictionary (структура данных). = [Months Dictionary](https://github.com/GhostBasenji/homeworks/tree/master/Months_Dictionary).

@@ -21,4 +21,5 @@
 ### Часть 3. Инициирование и обработка событий мыши и клавиатуры
 * Координаты курсора мыши относительно экрана и элемента управления. - [Monitoring](https://github.com/GhostBasenji/homeworks/tree/master/Monitoring).
 * Создание элемента управления Button "программным" способом и подключение события для него. - [CreateButton](https://github.com/GhostBasenji/homeworks/tree/master/CreateButton).
-* Калькулятор. - [Calc](https://github.com/GhostBasenji/homeworks/tree/master/Calc)
+* Калькулятор. - [Calc](https://github.com/GhostBasenji/homeworks/tree/master/Calc).
+* Ссылка на другие ресурсы LinkLabel. - [LabelLink](https://github.com/GhostBasenji/homeworks/tree/master/LabelLink).

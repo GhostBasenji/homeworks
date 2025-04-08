@@ -23,4 +23,5 @@
 * Создание элемента управления Button "программным" способом и подключение события для него. - [CreateButton](https://github.com/GhostBasenji/homeworks/tree/master/CreateButton).
 * Калькулятор. - [Calc](https://github.com/GhostBasenji/homeworks/tree/master/Calc).
 * Ссылка на другие ресурсы LinkLabel. - [LabelLink](https://github.com/GhostBasenji/homeworks/tree/master/LabelLink).
-* Обработка событий клавиатуры. = [KeyboardEvents](https://github.com/GhostBasenji/homeworks/tree/master/KeyboardEvents).
+* Обработка событий клавиатуры. - [KeyboardEvents](https://github.com/GhostBasenji/homeworks/tree/master/KeyboardEvents).
+* Разрешаем вводить в текстовое поле только цифры. - [OnlyNumbers](https://github.com/GhostBasenji/homeworks/tree/master/OnlyNumbers).

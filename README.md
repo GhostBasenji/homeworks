@@ -27,3 +27,6 @@
 * Разрешаем вводить в текстовое поле только цифры. - [OnlyNumbers](https://github.com/GhostBasenji/homeworks/tree/master/OnlyNumbers).
 * Разрешаем вводить в текстовое поле цифры, а также разделитель целой и дробной части числа. - [OnlyNumber2](https://github.com/GhostBasenji/homeworks/tree/master/OnlyNumber2).
 * Программно вызываем событие "щелчок на кнопке". - [CallButton](https://github.com/GhostBasenji/homeworks/tree/master/CallButton). 
+
+### Часть 4. Чтение, запись текстовых и бинарных файлов, текстовый редактор
+* Чтение/запись текстового файла в кодировке Unicode. Обработка исключений try...catch. - [TxtUnicode](https://github.com/GhostBasenji/homeworks/tree/master/TxtUnicode).

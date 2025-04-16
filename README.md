@@ -32,3 +32,4 @@
 * Чтение/запись текстового файла в кодировке Unicode. Обработка исключений try...catch. - [TxtUnicode](https://github.com/GhostBasenji/homeworks/tree/master/TxtUnicode).
 * Простой текстовый редактор. Открытие и сохранение файла. Событие формы Closing. - [TextEditor](https://github.com/GhostBasenji/homeworks/tree/master/TextEditor).
 * Программа тестирования знаний студента по какому-либо предмету. - [SmallTest](https://github.com/GhostBasenji/homeworks/tree/master/SmallTest).
+* Простой RTF-редактор. - [EditorRTF](https://github.com/GhostBasenji/homeworks/tree/master/EditorRTF).

@@ -33,3 +33,4 @@
 * Простой текстовый редактор. Открытие и сохранение файла. Событие формы Closing. - [TextEditor](https://github.com/GhostBasenji/homeworks/tree/master/TextEditor).
 * Программа тестирования знаний студента по какому-либо предмету. - [SmallTest](https://github.com/GhostBasenji/homeworks/tree/master/SmallTest).
 * Простой RTF-редактор. - [EditorRTF](https://github.com/GhostBasenji/homeworks/tree/master/EditorRTF).
+* Программа ввода каталога координат (числовых данных) из текстового файла. - [InputCoordinats](https://github.com/GhostBasenji/homeworks/tree/master/InputCoordinats).

@@ -35,3 +35,4 @@
 * Простой RTF-редактор. - [EditorRTF](https://github.com/GhostBasenji/homeworks/tree/master/EditorRTF).
 * Программа ввода каталога координат (числовых данных) из текстового файла. - [InputCoordinats](https://github.com/GhostBasenji/homeworks/tree/master/InputCoordinats).
 * Печать текстового документа. - [TxtPrint](https://github.com/GhostBasenji/homeworks/tree/master/TxtPrint).
+* Чтение/запись бинарных файлов с использованием потока данных. - [ReadWriteBin](https://github.com/GhostBasenji/homeworks/tree/master/ReadWriteBin).

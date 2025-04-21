@@ -38,3 +38,4 @@
 * Чтение/запись бинарных файлов с использованием потока данных. - [ReadWriteBin](https://github.com/GhostBasenji/homeworks/tree/master/ReadWriteBin).
 
 ### Часть 5. Редактирование графических данных
+* Простейший вывод отображения графического файла в форму (с тремя примерами). - [SimpleImage1](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage1), [SimpleImage2](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage2), [SimpleImage3](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage3).

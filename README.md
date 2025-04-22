@@ -39,3 +39,4 @@
 
 ### Часть 5. Редактирование графических данных
 * Простейший вывод отображения графического файла в форму (с тремя примерами). - [SimpleImage1](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage1), [SimpleImage2](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage2), [SimpleImage3](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage3).
+* Использование элемента PictureBox для отображения растрового файла с возможностью прокрутки. - [ScrollABigImage](https://github.com/GhostBasenji/homeworks/tree/master/ScrollABigImage).

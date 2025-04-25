@@ -46,3 +46,4 @@
 * Простейший вывод отображения графического файла в форму (с тремя примерами). - [SimpleImage1](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage1), [SimpleImage2](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage2), [SimpleImage3](https://github.com/GhostBasenji/homeworks/tree/master/SimpleImage3).
 * Использование элемента PictureBox для отображения растрового файла с возможностью прокрутки. - [ScrollABigImage](https://github.com/GhostBasenji/homeworks/tree/master/ScrollABigImage).
 * Рисование в форме графических примитивов (фигур). - [DrawShapes](https://github.com/GhostBasenji/homeworks/tree/master/DrawShapes).
+* Выбор цвета с использованием ListBox. - [ChoiceOfColor](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor), [ChoiceOfColor2](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor2).

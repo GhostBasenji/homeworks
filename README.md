@@ -47,3 +47,4 @@
 * Использование элемента PictureBox для отображения растрового файла с возможностью прокрутки. - [ScrollABigImage](https://github.com/GhostBasenji/homeworks/tree/master/ScrollABigImage).
 * Рисование в форме графических примитивов (фигур). - [DrawShapes](https://github.com/GhostBasenji/homeworks/tree/master/DrawShapes).
 * Выбор цвета с использованием ListBox. - [ChoiceOfColor](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor), [ChoiceOfColor2](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor2).
+* Форма с треугольником прозрачности. - [TransparentTriangle](https://github.com/GhostBasenji/homeworks/tree/master/TransparentTriangle).

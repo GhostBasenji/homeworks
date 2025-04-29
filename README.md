@@ -48,3 +48,4 @@
 * Рисование в форме графических примитивов (фигур). - [DrawShapes](https://github.com/GhostBasenji/homeworks/tree/master/DrawShapes).
 * Выбор цвета с использованием ListBox. - [ChoiceOfColor](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor), [ChoiceOfColor2](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor2).
 * Форма с треугольником прозрачности. - [TransparentTriangle](https://github.com/GhostBasenji/homeworks/tree/master/TransparentTriangle).
+* Печать графических примитивов. - [EllipsePrint](https://github.com/GhostBasenji/homeworks/tree/master/EllipsePrint).

@@ -49,3 +49,4 @@
 * Выбор цвета с использованием ListBox. - [ChoiceOfColor](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor), [ChoiceOfColor2](https://github.com/GhostBasenji/homeworks/tree/master/ChoiceOfColor2).
 * Форма с треугольником прозрачности. - [TransparentTriangle](https://github.com/GhostBasenji/homeworks/tree/master/TransparentTriangle).
 * Печать графических примитивов. - [EllipsePrint](https://github.com/GhostBasenji/homeworks/tree/master/EllipsePrint).
+* Печать BMP-файла. - [PrintBMPfile](https://github.com/GhostBasenji/homeworks/tree/master/PrintBMPfile).

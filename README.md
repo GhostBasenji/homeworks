@@ -50,3 +50,4 @@
 * Форма с треугольником прозрачности. - [TransparentTriangle](https://github.com/GhostBasenji/homeworks/tree/master/TransparentTriangle).
 * Печать графических примитивов. - [EllipsePrint](https://github.com/GhostBasenji/homeworks/tree/master/EllipsePrint).
 * Печать BMP-файла. - [PrintBMPfile](https://github.com/GhostBasenji/homeworks/tree/master/PrintBMPfile).
+* Создание JPG-файла "на лету" и вывод его отображения в форму. - [CreateJPG](https://github.com/GhostBasenji/homeworks/tree/master/CreateJPG).

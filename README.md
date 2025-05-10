@@ -52,4 +52,5 @@
 * Печать BMP-файла. - [PrintBMPfile](https://github.com/GhostBasenji/homeworks/tree/master/PrintBMPfile).
 * Создание JPG-файла "на лету" и вывод его отображения в форму. - [CreateJPG](https://github.com/GhostBasenji/homeworks/tree/master/CreateJPG).
 * Смена выведенного изображения с помощью обновления формы. - [ChangingImages](https://github.com/GhostBasenji/homeworks/tree/master/ChangingImages).
-*  Рисование в форме указателем мыши. - [DrawMouse](https://github.com/GhostBasenji/homeworks/tree/master/DrawMouse).
+* Рисование в форме указателем мыши. - [DrawMouse](https://github.com/GhostBasenji/homeworks/tree/master/DrawMouse).
+* Управление сплайном Безье. - [Spline](https://github.com/GhostBasenji/homeworks/tree/master/Spline).

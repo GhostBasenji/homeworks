@@ -54,3 +54,4 @@
 * Смена выведенного изображения с помощью обновления формы. - [ChangingImages](https://github.com/GhostBasenji/homeworks/tree/master/ChangingImages).
 * Рисование в форме указателем мыши. - [DrawMouse](https://github.com/GhostBasenji/homeworks/tree/master/DrawMouse).
 * Управление сплайном Безье. - [Spline](https://github.com/GhostBasenji/homeworks/tree/master/Spline).
+* Построение графика методами класса Graphics. - [Grafika](https://github.com/GhostBasenji/homeworks/tree/master/Grafika).

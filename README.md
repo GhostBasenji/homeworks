@@ -55,3 +55,7 @@
 * Рисование в форме указателем мыши. - [DrawMouse](https://github.com/GhostBasenji/homeworks/tree/master/DrawMouse).
 * Управление сплайном Безье. - [Spline](https://github.com/GhostBasenji/homeworks/tree/master/Spline).
 * Построение графика методами класса Graphics. - [Grafika](https://github.com/GhostBasenji/homeworks/tree/master/Grafika).
+
+### Часть 6. Управление буфером обмена с данными в текстовом и графическом форматах
+
+* Буфер обмена с данными в текстовом формате. - [ClipboardTXT](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardTXT).

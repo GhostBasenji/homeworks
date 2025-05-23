@@ -59,3 +59,4 @@
 ### Часть 6. Управление буфером обмена с данными в текстовом и графическом форматах
 
 * Буфер обмена с данными в текстовом формате. - [ClipboardTXT](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardTXT).
+* Элемент управления PictureBox. Буфер обмена с растровыми данными. - [ClipboardBMP](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardBMP).

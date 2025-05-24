@@ -60,3 +60,4 @@
 
 * Буфер обмена с данными в текстовом формате. - [ClipboardTXT](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardTXT).
 * Элемент управления PictureBox. Буфер обмена с растровыми данными. - [ClipboardBMP](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardBMP).
+* Имитация нажатия комбинации клавиш <Alt>+<PrintScreen>. - [AltPrintScreen](https://github.com/GhostBasenji/homeworks/tree/master/AltPrintScreen).

@@ -62,3 +62,4 @@
 * Элемент управления PictureBox. Буфер обмена с растровыми данными. - [ClipboardBMP](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardBMP).
 * Имитация нажатия комбинации клавиш \<Alt\>+\<PrintScreen\>. - [AltPrintScreen](https://github.com/GhostBasenji/homeworks/tree/master/AltPrintScreen).
 * Запись содержимого буфера обмена в BMP-файл. - [ClipboardSaveBMP](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardSaveBMP).
+* Использование таймера Timer. - [JustTimer](https://github.com/GhostBasenji/homeworks/tree/master/JustTimer).

@@ -63,3 +63,4 @@
 * Имитация нажатия комбинации клавиш \<Alt\>+\<PrintScreen\>. - [AltPrintScreen](https://github.com/GhostBasenji/homeworks/tree/master/AltPrintScreen).
 * Запись содержимого буфера обмена в BMP-файл. - [ClipboardSaveBMP](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardSaveBMP).
 * Использование таймера Timer. - [JustTimer](https://github.com/GhostBasenji/homeworks/tree/master/JustTimer).
+*  Запись в файлы текущих состояний экрана каждые пять секунд. - [SaveScreenshot5sec](https://github.com/GhostBasenji/homeworks/tree/master/SaveScreenshot5sec).

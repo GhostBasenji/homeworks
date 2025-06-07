@@ -63,4 +63,8 @@
 * Имитация нажатия комбинации клавиш \<Alt\>+\<PrintScreen\>. - [AltPrintScreen](https://github.com/GhostBasenji/homeworks/tree/master/AltPrintScreen).
 * Запись содержимого буфера обмена в BMP-файл. - [ClipboardSaveBMP](https://github.com/GhostBasenji/homeworks/tree/master/ClipboardSaveBMP).
 * Использование таймера Timer. - [JustTimer](https://github.com/GhostBasenji/homeworks/tree/master/JustTimer).
-*  Запись в файлы текущих состояний экрана каждые пять секунд. - [SaveScreenshot5sec](https://github.com/GhostBasenji/homeworks/tree/master/SaveScreenshot5sec).
+* Запись в файлы текущих состояний экрана каждые пять секунд. - [SaveScreenshot5sec](https://github.com/GhostBasenji/homeworks/tree/master/SaveScreenshot5sec).
+
+### Часть 7. Ввод и вывод табличных данных. Решение системы уравнений
+
+* Формирование таблицы. Функция String.Format. - [TableTxt](https://github.com/GhostBasenji/homeworks/tree/master/TableTxt).

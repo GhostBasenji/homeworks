@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableTxt", "TableTxt\TableTxt.csproj", "{89ED4C42-6919-4E52-BEFA-93FD7C51CA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89ED4C42-6919-4E52-BEFA-93FD7C51CA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ED4C42-6919-4E52-BEFA-93FD7C51CA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ED4C42-6919-4E52-BEFA-93FD7C51CA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ED4C42-6919-4E52-BEFA-93FD7C51CA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5566B7C9-95A8-4902-BEEF-305B3BAFD81E}
+	EndGlobalSection
+EndGlobal

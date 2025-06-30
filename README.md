@@ -69,3 +69,4 @@
 
 * Формирование таблицы. Функция String.Format. - [TableTxt](https://github.com/GhostBasenji/homeworks/tree/master/TableTxt).
 * Форматирование Double-переменных в виде таблицы. Вывод таблицы на печать. Поток StringReader. - [TablTxtPrint](https://github.com/GhostBasenji/homeworks/tree/master/TablTxtPrint).
+* Формирование таблицы с помощью элемента управления DataGridView. - [TableGrid](https://github.com/GhostBasenji/homeworks/tree/master/TableGrid).

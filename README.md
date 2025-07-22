@@ -71,3 +71,4 @@
 * Форматирование Double-переменных в виде таблицы. Вывод таблицы на печать. Поток StringReader. - [TablTxtPrint](https://github.com/GhostBasenji/homeworks/tree/master/TablTxtPrint).
 * Формирование таблицы с помощью элемента управления DataGridView. - [TableGrid](https://github.com/GhostBasenji/homeworks/tree/master/TableGrid).
 * Отображение хэш-таблицы с помощью элемента DataGridView. - [HashGridView](https://github.com/GhostBasenji/homeworks/tree/master/HashGridView).
+* Табличный ввод данных. DataGridView. DataTable. DataSet. Инструмент для создания файла XML. - [InputTable](https://github.com/GhostBasenji/homeworks/tree/master/InputTable).

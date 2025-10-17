@@ -76,4 +76,4 @@
 
 ### Часть 8. Создание PDF-файла
 * Создание PDF-файла "на лету" с возможностью вывода кириллицы. - [CreatePdf1](https://github.com/GhostBasenji/homeworks/tree/master/CreatePdf1), [CreatePdf2](https://github.com/GhostBasenji/homeworks/tree/master/CreatePdf2).
-* Вывод таблицы в PDF-документ. - [CreatePDFTable1](), [CreatePDFTable2](). 
+* Вывод таблицы в PDF-документ. - [CreatePDFTable1](https://github.com/GhostBasenji/homeworks/tree/master/CreatePDFTable), [CreatePDFTable2](https://github.com/GhostBasenji/homeworks/tree/master/CreatePDFTable2).

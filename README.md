@@ -75,4 +75,5 @@
 * Решение системы линейных уравнений. Ввод коэффициентов через DataGridView. - [GaussGrid](https://github.com/GhostBasenji/homeworks/tree/master/GaussGrid).
 
 ### Часть 8. Создание PDF-файла
-* Создание PDF-файла "на лету" с возможностью вывода кириллицы. - [CreatePdf1](https://github.com/GhostBasenji/homeworks/tree/master/CreatePdf1),[CreatePdf2](https://github.com/GhostBasenji/homeworks/tree/master/CreatePdf2).
+* Создание PDF-файла "на лету" с возможностью вывода кириллицы. - [CreatePdf1](https://github.com/GhostBasenji/homeworks/tree/master/CreatePdf1), [CreatePdf2](https://github.com/GhostBasenji/homeworks/tree/master/CreatePdf2).
+* Вывод таблицы в PDF-документ. - [CreatePDFTable1](), [CreatePDFTable2](). 
